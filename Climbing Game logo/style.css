@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "Marhey";
+    src: url("fonts/Marhey-VariableFont_wght.ttf")
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    font-family: "Marhey";
+    font-size: 60px;
+    font-style: italic;
+    color: white;
+    text-shadow: 0px 0px 30px black;
+}
